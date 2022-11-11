@@ -1,0 +1,2 @@
+1) Keep both the dataset folder and the ipynb file in the same directory.
+2) press shift + enter from starting on each tab to run the code consequently.
